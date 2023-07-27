@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section 8\merge sort\bin\Debug\merge sort.exe.config
+E:\my details\personal\c sharp\ assigned projects\section 8\merge sort\bin\Debug\merge sort.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\merge sort\bin\Debug\merge sort.pdb
+E:\my details\personal\c sharp\ assigned projects\section 8\merge sort\obj\Debug\merge sort.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\merge sort\obj\Debug\merge sort.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\merge sort\obj\Debug\merge sort.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\merge sort\obj\Debug\merge sort.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\merge sort\obj\Debug\merge sort.pdb
